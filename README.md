@@ -101,8 +101,6 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - **Description**: Retrieves and generates responses based on specific conditions or rules set by the user.
   - **Use Case**: Ideal for rule-based decision-making systems in environments like compliance checks or automated customer service.
 
-GitHub Repo: [Fast-RAG](https://github.com/ab-ark/Fast-RAG/tree/RAGs_Updates)
-
 - **Reliable RAG**
   - **Description**: Ensures accurate and fact-checked responses by combining real-time data retrieval with generated text.
   - **Use Case**: Ideal for generating reliable answers to complex queries in fields like legal research, healthcare, and customer support, where accuracy is critical.
@@ -210,6 +208,3 @@ GitHub Repo: [Fast-RAG](https://github.com/ab-ark/Fast-RAG/tree/RAGs_Updates)
 - **Multi-hop Retrieval**: Enable retrieval across multiple document steps to answer complex queries.
 - **Diverse Generation**: Fine-tune the generator for more diverse and creative responses.
 
-## Resources:
-1. [RAG Techniques Repo](https://github.com/NirDiamant/RAG_Techniques?tab=readme-ov-file)
-2. [Latest Advancements in RAG](https://www.linkedin.com/pulse/latest-advancements-rag-every-developer-should-know-pavan-belagatti-jommc/)
