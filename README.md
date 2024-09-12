@@ -5,7 +5,7 @@
 ### 1.1 RAGs with Test Cases
 The following RAG types were analyzed and tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
 
-`- **Contextual Compression**`
+- **Contextual Compression**
   - **Description**: Efficient retrieval, ideal for limited computational resources.
   - **Use Case**: Best for mobile apps or low-power devices needing quick, efficient responses without heavy processing.
 
@@ -165,7 +165,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - COCO, FAIS, etc.
 
 ## 3. Prompt Engineering Techniques
-- **Specific Prompt Recommendations**:
+- ***Specific Prompt Recommendations***:
   - The more specific the prompt, the more accurate the response:
     - Example: "List the most common risk factors for coronary artery disease?"
   - Describe your setting and provide context:
@@ -188,24 +188,24 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
     - Example: "What are the latest research trends in Alzheimer's treatment up until 2024?"
 
 ## 4. Fine-Tuning Approaches
-- **Context Length**: Adjust the maximum context length for retrieved documents.
-- **Relevance Scoring**: Fine-tune the scoring algorithm to rank retrieved documents based on relevance.
-- **Retrieval Diversity**: Increase retrieval diversity by balancing between high-scoring and varied sources.
-- **Prompt Refinement**: Optimize question prompts to guide the retriever for more specific results.
-- **Temperature**: Adjust the temperature parameter to control the creativity of generated responses.
-- **Top-k Sampling**: Select the top-k most likely responses to improve precision.
-- **Stop Tokens**: Define stop tokens to control when to end generated text.
-- **Document Filtering**: Implement filters to exclude irrelevant documents during retrieval.
-- **Re-ranker**: Apply a secondary re-ranker model to improve document ranking post-retrieval.
-- **Learning Rate**: Adjust the learning rate for model convergence during fine-tuning.
-- **Batch Size**: Optimize batch size for balanced training speed and memory usage.
-- **Embedding Size**: Fine-tune embedding sizes for document representation accuracy.
-- **Contextual Embeddings**: Enhance embeddings with domain-specific knowledge for more accurate retrieval.
-- **Response Length**: Control the max length of generated responses.
-- **Document Augmentation**: Use external sources to enrich document content.
-- **Negative Sampling**: Train the model to learn from incorrect document matches.
-- **Retriever-Generator Balance**: Fine-tune the balance between retrieval and generation components.
-- **Document Chunking**: Optimize document chunk sizes for better retrieval accuracy.
-- **Multi-hop Retrieval**: Enable retrieval across multiple document steps to answer complex queries.
-- **Diverse Generation**: Fine-tune the generator for more diverse and creative responses.
+- ***Context Length***: Adjust the maximum context length for retrieved documents.
+- ***Relevance Scoring***: Fine-tune the scoring algorithm to rank retrieved documents based on relevance.
+- ***Retrieval Diversity***: Increase retrieval diversity by balancing between high-scoring and varied sources.
+- ***Prompt Refinement***: Optimize question prompts to guide the retriever for more specific results.
+- ***Temperature***: Adjust the temperature parameter to control the creativity of generated responses.
+- ***Top-k Sampling***: Select the top-k most likely responses to improve precision.
+- ***Stop Tokens***: Define stop tokens to control when to end generated text.
+- ***Document Filtering***: Implement filters to exclude irrelevant documents during retrieval.
+- ***Re-ranker***: Apply a secondary re-ranker model to improve document ranking post-retrieval.
+- ***Learning Rate***: Adjust the learning rate for model convergence during fine-tuning.
+- ***Batch Size***: Optimize batch size for balanced training speed and memory usage.
+- ***Embedding Size****: Fine-tune embedding sizes for document representation accuracy.
+- ***Contextual Embeddings***: Enhance embeddings with domain-specific knowledge for more accurate retrieval.
+- ***Response Length***: Control the max length of generated responses.
+- ***Document Augmentation***: Use external sources to enrich document content.
+- ***Negative Sampling***: Train the model to learn from incorrect document matches.
+- ***Retriever-Generator Balance***: Fine-tune the balance between retrieval and generation components.
+- ***Document Chunking***: Optimize document chunk sizes for better retrieval accuracy.
+- ***Multi-hop Retrieval***: Enable retrieval across multiple document steps to answer complex queries.
+- ***Diverse Generation***: Fine-tune the generator for more diverse and creative responses.
 
