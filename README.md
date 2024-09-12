@@ -57,7 +57,7 @@ The following RAG types were analyzed and tested with simple and complex documen
   - **Description**: Adjusts retrieval and generation strategies based on changing contexts or user needs.
   - **Use Case**: Ideal for dynamic environments like real-time collaboration platforms or adaptive learning systems, where the model must adapt to evolving inputs or scenarios.
 
-#### [Adaptive RAG Flow Diagram](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)
+> [Adaptive RAG Flow Diagram](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)
 
 
 - **Multivector Retriever**
