@@ -5,7 +5,7 @@
 ### 1.1 RAGs with Test Cases
 The following RAG types were analyzed and tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
 
-- **Contextual Compression**
+`- **Contextual Compression**`
   - **Description**: Efficient retrieval, ideal for limited computational resources.
   - **Use Case**: Best for mobile apps or low-power devices needing quick, efficient responses without heavy processing.
 
