@@ -1,4 +1,4 @@
-# State-of-the-Art RAG Approaches
+# Advanced RAG Approaches
 
 ## 1. Descriptions and Use Cases for RAG Types
 
