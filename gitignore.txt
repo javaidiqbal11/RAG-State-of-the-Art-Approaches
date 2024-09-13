@@ -1,0 +1,13 @@
+# Python environment and compiled files
+app/
+
+__pycache__
+
+# Environment variables
+.env
+
+# Qdrant storage directory
+qdrant_storage/
+
+# Ignore pickled files
+*.pkl
