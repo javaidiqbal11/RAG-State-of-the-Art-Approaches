@@ -159,7 +159,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - Ground all modalities into one primary modality
   - Have separate stores for different modalities
 
-### 1.3 Graph RAG
+### 1.3 [Graph RAG](https://microsoft.github.io/graphrag/)
 - **Description**: Leverages graph-based representations to retrieve relevant information, offering more accurate and explainable results by establishing relationships between entities.
 - **Use Cases**:
   - **Healthcare Documentation**: Automatically generate patient reports by retrieving and linking medical records based on symptoms and diagnoses using graph relationships.
