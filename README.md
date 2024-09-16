@@ -76,6 +76,7 @@ The following RAG types were analyzed and tested with simple and complex documen
 - **Multivector Retriever**
   - **Description**: Retrieves relevant documents using multiple vectors for different aspects of the query.
   - **Use Case**: Ideal for complex queries requiring nuanced retrieval, such as legal case searches where different legal precedents must be considered.
+  - 
 
 - **RAG QA**
   - **Description**: A question-answering system that retrieves documents and generates answers based on them.
@@ -98,22 +99,27 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - **RAG Sequence**
   - **Description**: Retrieves and generates answers in a step-by-step sequence, refining the response iteratively.
   - **Use Case**: Suitable for multi-part questions, like technical troubleshooting, where each step depends on the previous one.
+  - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
 - **RAG Chain**
   - **Description**: Chains together multiple RAG models to handle complex queries by passing outputs between models.
   - **Use Case**: Useful for comprehensive research tasks where information needs to be aggregated from different sources or contexts.
+  - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
 - **RAG Multistep**
   - **Description**: Breaks down a complex query into smaller, manageable steps for sequential retrieval and answer generation.
   - **Use Case**: Ideal for multi-faceted queries in fields like data analysis, where each step builds on the previous result.
+  - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
 - **RAG Summarizer**
   - **Description**: Summarizes long documents after retrieving them, providing concise information.
   - **Use Case**: Useful for content curation and generating executive summaries from detailed reports or articles.
+  - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
 - **RAG Conditional**
   - **Description**: Retrieves and generates responses based on specific conditions or rules set by the user.
   - **Use Case**: Ideal for rule-based decision-making systems in environments like compliance checks or automated customer service.
+  - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/2b02cf47df96a8f3ab7d6e402e58706d75d85909/src/app_05_RAG_Extra.py)
 
 - **Reliable RAG**
   - **Description**: Ensures accurate and fact-checked responses by combining real-time data retrieval with generated text.
