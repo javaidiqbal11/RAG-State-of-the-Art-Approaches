@@ -186,7 +186,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 ## 3. Prompt Engineering Techniques
 - ***Specific Prompt Recommendations***:
   - The more specific the prompt, the more accurate the response:
-    - Example: "List the most common risk factors for coronary artery disease?"
+    Example: "List the most common risk factors for coronary artery disease?"
   - Describe your setting and provide context:
     - Example: "I’m writing an article about AI's role in treating diabetes."
   - Experiment with different prompt styles:
