@@ -172,7 +172,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - **Description**: A vector database optimized for handling high-dimensional vector embeddings, making it ideal for similarity search and recommendation tasks.
 - **Use Case**: Commonly used in real-time recommendation systems and search engines where finding similar images, products, or text based on user queries is critical.
 
-### 2.2 ChromaDB
+### [2.2 ChromaDB](https://docs.trychroma.com/)
 - **Description**: An open-source vector database that stores and queries embeddings.
 - **Use Case**: Used in chatbots and NLP systems for retrieving similar sentences, paragraphs, or concepts during real-time interactions.
 
