@@ -176,7 +176,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - **Description**: An open-source vector database that stores and queries embeddings.
 - **Use Case**: Used in chatbots and NLP systems for retrieving similar sentences, paragraphs, or concepts during real-time interactions.
 
-### 2.3 Pinecone
+### [2.3 Pinecone](https://www.pinecone.io/)
 - **Description**: A fully managed vector database that simplifies the development of high-performance similarity search applications.
 - **Use Case**: Applied in recommendation engines for e-commerce or streaming services and fraud detection systems.
 
