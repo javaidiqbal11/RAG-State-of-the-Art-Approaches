@@ -168,7 +168,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 
 ## 2. Vectorstore Datasets
 
-### 2.1 Qdrant
+### [2.1 Qdrant](https://qdrant.tech/documentation/)
 - **Description**: A vector database optimized for handling high-dimensional vector embeddings, making it ideal for similarity search and recommendation tasks.
 - **Use Case**: Commonly used in real-time recommendation systems and search engines where finding similar images, products, or text based on user queries is critical.
 
