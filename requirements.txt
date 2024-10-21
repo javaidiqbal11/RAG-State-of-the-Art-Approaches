@@ -1,1 +1,20 @@
-# Update 
+fastapi
+uvicorn
+python-dotenv
+openai
+langchain-openai
+langchain-storage
+langchain-huggingface
+langchain-community
+langchain-core
+langchain-qdrant
+langchain-experimental
+langchain-text-splitters
+qdrant-client
+pymupdf
+huggingface-hub
+torch
+transformers
+scipy
+pickle5
+tempfile
