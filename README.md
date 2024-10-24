@@ -1,6 +1,6 @@
 # Advanced RAG Approaches
 
-## 1. Descriptions and Use Cases for RAG Types
+## 1. Descriptions and Use Cases for RAGs 
 
 ### 1.1 RAGs with Test Cases
 The following RAG types were analyzed and tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
