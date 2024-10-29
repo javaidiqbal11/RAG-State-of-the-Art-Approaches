@@ -1,6 +1,6 @@
 # Advanced RAG Approaches :compass:
 
-## 1. Descriptions and Use Cases for RAGs 
+## 1. Descriptions and Use Cases for RAGs :anchor:
 
 ### 1.1 RAGs with Test Cases
 The following RAG types were analyzed and tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
@@ -166,7 +166,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - **Customer Support**: Provide precise troubleshooting steps by retrieving interconnected knowledge from product manuals and past cases.
   - **Financial Advisory**: Suggest investment strategies by retrieving related financial data, market trends, and user profiles using graph-based retrieval.
 
-## 2. Vectorstore Datasets
+## 2. Vectorstore Datasets :anchor:
 
 ### [2.1 Qdrant](https://qdrant.tech/documentation/)
 - **Description**: A vector database optimized for handling high-dimensional vector embeddings, making it ideal for similarity search and recommendation tasks.
@@ -183,7 +183,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 ### 2.4 More Datasets
 - COCO, FAIS, etc.
 
-## 3. Prompt Engineering Techniques
+## 3. Prompt Engineering Techniques :anchor:
 - ***Specific Prompt Recommendations***:
   - The more specific the prompt, the more accurate the response:
     - Example: "List the most common risk factors for coronary artery disease?"
@@ -206,7 +206,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - Set realistic expectations for the responses:
     - Example: "What are the latest research trends in Alzheimer's treatment up until 2024?"
 
-## 4. Fine-Tuning Approaches
+## 4. Fine-Tuning Approaches :anchor:
 - ***Context Length***: Adjust the maximum context length for retrieved documents.
 - ***Relevance Scoring***: Fine-tune the scoring algorithm to rank retrieved documents based on relevance.
 - ***Retrieval Diversity***: Increase retrieval diversity by balancing between high-scoring and varied sources.
