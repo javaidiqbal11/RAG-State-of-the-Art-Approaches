@@ -2,7 +2,7 @@
 
 ## 1. Descriptions and Use Cases for RAGs :anchor:
 
-### 1.1 RAGs with Test Cases :rocket:
+### 1.1 RAG with Test Cases :rocket:
 The following RAG types were analyzed and tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
 
 - **Contextual Compression RAG** :flying_saucer:
