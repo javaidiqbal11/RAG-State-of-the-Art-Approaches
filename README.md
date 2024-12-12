@@ -206,7 +206,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - Set realistic expectations for the responses:
     - Example: "What are the latest research trends in Alzheimer's treatment up until 2024?"
 
-## 4. Fine-Tuning Approaches in RAGs:anchor:
+## 4. Fine-Tuning Approaches in RAG:anchor:
 - ***Context Length***: Adjust the maximum context length for retrieved documents.
 - ***Relevance Scoring***: Fine-tune the scoring algorithm to rank retrieved documents based on relevance.
 - ***Retrieval Diversity***: Increase retrieval diversity by balancing between high-scoring and varied sources.
