@@ -228,3 +228,6 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - ***Multi-hop Retrieval***: Enable retrieval across multiple document steps to answer complex queries.
 - ***Diverse Generation***: Fine-tune the generator for more diverse and creative responses.
 
+## 5. Resources
+[Prompt Engineering Guide](https://www.promptingguide.ai/)
+
