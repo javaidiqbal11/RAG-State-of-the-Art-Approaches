@@ -229,5 +229,6 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - ***Diverse Generation***: Fine-tune the generator for more diverse and creative responses.
 
 ## 5. Resources
-[Prompt Engineering Guide](https://www.promptingguide.ai/)
+[1]. [Prompt Engineering Guide](https://www.promptingguide.ai/)
+[2]. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
 
