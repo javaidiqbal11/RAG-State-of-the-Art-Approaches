@@ -230,5 +230,6 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 
 ## 5. Resources
 [1]. [Prompt Engineering Guide](https://www.promptingguide.ai/) <br> 
-[2]. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
+[2]. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) <br>
+[3]. [AWS What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 
