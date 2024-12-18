@@ -1,4 +1,4 @@
-# Advanced RAG Approaches :compass:
+# Advanced RAG Approaches :compass: 
 
 ## 1. RAGs Descriptions and Use Cases :anchor:
 
