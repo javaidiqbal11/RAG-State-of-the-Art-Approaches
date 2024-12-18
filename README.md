@@ -74,6 +74,7 @@ The following RAG types were analyzed and tested with simple and complex documen
   - **Use Case**: Ideal for dynamic environments like real-time collaboration platforms or adaptive learning systems, where the model must adapt to evolving inputs or scenarios.
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/30a808d04f162c4b905d4a3f75ff135a367f54a4/src/app_Adaptive_RAG.py)
 
+![Adaptive RAG](materials/Adaptive_RAG.png)
 > [Adaptive RAG Flow Diagram](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)
 
 
