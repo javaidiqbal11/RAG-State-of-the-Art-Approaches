@@ -75,7 +75,7 @@ The following RAG types were analyzed and tested with simple and complex documen
   - [Code Example](https://github.com/javaidiqbal11/RAG-State-of-the-Art-Approaches/blob/30a808d04f162c4b905d4a3f75ff135a367f54a4/src/app_Adaptive_RAG.py)
 
 ![Adaptive RAG](materials/Adaptive_RAG.png)
-> [Adaptive RAG Flow Diagram](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)
+> [Adaptive RAG Architecture Flow Diagram Source](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/)
 
 
 - **Multivector Retriever** :flying_saucer:
