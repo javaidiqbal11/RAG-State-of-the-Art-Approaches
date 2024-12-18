@@ -205,7 +205,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - Set realistic expectations for the responses:
     - Example: "What are the latest research trends in Alzheimer's treatment up until 2024?"
 
-## 4. Fine-Tuning Approaches in RAG:anchor:
+## 4. Fine-Tuning Approaches in RAG :anchor:
 - ***Context Length***: Adjust the maximum context length for retrieved documents.
 - ***Relevance Scoring***: Fine-tune the scoring algorithm to rank retrieved documents based on relevance.
 - ***Retrieval Diversity***: Increase retrieval diversity by balancing between high-scoring and varied sources.
@@ -227,7 +227,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - ***Multi-hop Retrieval***: Enable retrieval across multiple document steps to answer complex queries.
 - ***Diverse Generation***: Fine-tune the generator for more diverse and creative responses.
 
-## 5. Resources
+## 5. Resources ℹ️
 [1]. [Prompt Engineering Guide by OpenIA](https://www.promptingguide.ai/) <br> 
 [2]. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) <br>
 [3]. [What is RAG (Retrieval-Augmented Generation) by AWS?](https://aws.amazon.com/what-is/retrieval-augmented-generation/) <br>
