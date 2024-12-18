@@ -2,6 +2,10 @@
 
 ## 1. RAGs Descriptions and Use Cases :anchor:
 
+![RAG Pipeline](materials/RAG_Pipeline.jpg) <br>
+[RAG Pipeline Source](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)
+
+
 ### 1.1 RAG with Test Cases :rocket:
 The following RAG types were analyzed and tested with simple and complex documents stored in the vectorstore dataset. These types of RAGs are supported for the VectorStore dataset such as Qdrant, ChromaDB, and Pinecone.
 
