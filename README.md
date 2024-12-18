@@ -76,7 +76,6 @@ The following RAG types were analyzed and tested with simple and complex documen
 - **Multivector Retriever** :flying_saucer:
   - **Description**: Retrieves relevant documents using multiple vectors for different aspects of the query.
   - **Use Case**: Ideal for complex queries requiring nuanced retrieval, such as legal case searches where different legal precedents must be considered.
-  - 
 
 - **RAG QA** :flying_saucer:
   - **Description**: A question-answering system that retrieves documents and generates answers based on them.
@@ -129,7 +128,7 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
   - **Description**: Self-RAG (Retrieve-Then-Answer Generation) is a technique that leverages a retriever model to extract relevant information and a generator model to produce detailed responses based on the retrieved content.
   - **Use Case**: Ideal for automated customer support systems, enabling them to retrieve specific answers from a knowledge base and generate accurate, natural language responses.
 
-- **Corrective RAG** :flying_saucer:
+- **Corrective RAG (CRAG)** :flying_saucer:
   - **Description**: Refines and corrects outputs based on retrieved context from a knowledge source.
   - **Use Case**: Ideal for document review systems where corrections are needed based on real-time knowledge retrieval, such as updating legal documents or revising technical reports.
 
@@ -229,10 +228,8 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - ***Diverse Generation***: Fine-tune the generator for more diverse and creative responses.
 
 ## 5. Resources
-[1]. [Prompt Engineering Guide](https://www.promptingguide.ai/) <br> 
+[1]. [Prompt Engineering Guide by OpenIA](https://www.promptingguide.ai/) <br> 
 [2]. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) <br>
-[3]. [AWS What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/) <br>
+[3]. [What is RAG (Retrieval-Augmented Generation) by AWS?](https://aws.amazon.com/what-is/retrieval-augmented-generation/) <br>
 [4]. [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) <br>
-[5]. [Advanced_RA](https://github.com/NisaarAgharia/Advanced_RAG)
-
-
+[5]. [Advanced_RAG](https://github.com/NisaarAgharia/Advanced_RAG)
