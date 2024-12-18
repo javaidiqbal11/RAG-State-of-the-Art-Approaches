@@ -228,8 +228,8 @@ The following RAGs were not supported with the VectorStoreRetriever dataset and 
 - ***Diverse Generation***: Fine-tune the generator for more diverse and creative responses.
 
 ## 5. Resources ℹ️
-[1]. [Prompt Engineering Guide by OpenIA](https://www.promptingguide.ai/) <br> 
+[1]. [Prompt Engineering Guide by OpenAI](https://www.promptingguide.ai/) <br> 
 [2]. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) <br>
 [3]. [What is RAG (Retrieval-Augmented Generation) by AWS?](https://aws.amazon.com/what-is/retrieval-augmented-generation/) <br>
-[4]. [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) <br>
-[5]. [Advanced_RAG](https://github.com/NisaarAgharia/Advanced_RAG)
+[4]. [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) <br>
+[5]. [Advanced RAG](https://github.com/NisaarAgharia/Advanced_RAG)
